@@ -1,0 +1,10 @@
+.splashscreen-container {
+	background-color: lightblue;
+	min-height: 100vh;
+	min-width: 100vh;
+	text-align: center;
+	padding: 50px;
+
+	opacity: var(--fade-opacity, 1);
+  	transition: opacity 0.3s ease-out;
+}
